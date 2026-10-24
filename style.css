@@ -1,0 +1,125 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f5f3ff, #eef2ff, #fdf2f8) !important;
+    color: #272343;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px #ddd6fe;
+}
+
+.card-header {
+    background: linear-gradient(135deg, #6d28d9, #a855f7) !important;
+    padding: 20px;
+}
+
+.card-body {
+    padding: 25px;
+}
+
+h4 {
+    color: #6d28d9;
+    font-weight: bold;
+}
+
+.form-control,
+.form-select {
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #ddd6fe;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #8b5cf6;
+    box-shadow: 0 0 5px #c4b5fd;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 8px 15px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #7c3aed;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5b21b6;
+}
+
+.btn-secondary {
+    background-color: #ede9fe;
+    color: #6d28d9;
+    border: none;
+}
+
+#cancelBtn[hidden] {
+    display: none !important;
+}
+
+#message {
+    color: green;
+}
+
+hr {
+    border-color: #ddd6fe;
+    margin: 25px 0;
+}
+
+.table {
+    background-color: white;
+}
+
+.table thead th {
+    background-color: #6d28d9;
+    color: white;
+    padding: 12px;
+}
+
+.table td {
+    padding: 12px;
+    vertical-align: middle;
+}
+
+.table-hover tbody tr:hover td {
+    background-color: #f3e8ff;
+}
+
+.high {
+    color: #dc2626 !important;
+    font-weight: bold;
+}
+
+.medium {
+    color: #b45309 !important;
+    font-weight: bold;
+}
+
+.low {
+    color: #15803d !important;
+    font-weight: bold;
+}
+
+.btn-danger {
+    background-color: #f43f5e;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #e11d48;
+}
+
+::placeholder {
+    color: #a39bb8 !important;
+}
