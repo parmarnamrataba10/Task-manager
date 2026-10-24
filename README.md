@@ -1,4 +1,10 @@
-  <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/42ee64e0-bbc7-43e9-91ff-1d1759e0de1d" />
+question:-
+
+<img width="1338" height="1477" alt="image" src="https://github.com/user-attachments/assets/d6945df3-20c2-4fe0-983e-91e07bf3c473" />
+
+
+Output :-
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/42ee64e0-bbc7-43e9-91ff-1d1759e0de1d" />
 # Task Manager Web Application
 
 A simple Task Manager web application built using HTML, CSS, JavaScript, and Bootstrap. It helps users manage their daily tasks by adding, editing, deleting, searching, and filtering tasks.
